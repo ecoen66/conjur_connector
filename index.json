@@ -1,0 +1,13 @@
+{
+  "name": "conjur",
+  "description": "conjur",
+  "triggers": [],
+  "actions": [
+    "/v1/get_secret"
+  ],
+  "version": 1,
+  "auth_type": "custom",
+  "doc_link": "",
+  "guid": "08fffc5d-1613-4a8b-b9ff-b40126af269f",
+  "connectionUid": "conjur-HLCM_IgeY"
+}

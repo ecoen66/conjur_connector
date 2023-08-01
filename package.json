@@ -1,0 +1,10 @@
+{
+  "name": "conjur",
+  "version": "1.0.0",
+  "description": "conjur",
+  "dependencies": {
+    "request": "2.55.0",
+    "conjur": "^5.3.1",
+    "@webmethodsio/cli-sdk": "*"
+  }
+}
